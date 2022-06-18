@@ -1,0 +1,123 @@
+.bar { width: 386px;
+        height: 100%;
+        background-color:#1d73be;
+        position: fixed;
+        padding: 80px 0 0 0;
+
+}       
+
+#logo {width: 230px;
+       height: 230px;
+       margin: 0 0 0 75px;
+
+}
+
+.baslık {font-size: 28px;
+         font-family:  Arial, Helvetica, sans-serif;
+         font-weight: bold; 
+         color: #333333;
+         padding: 0 0 0 80px;
+         line-height: 0em;
+}
+
+
+#slogan {color: #333333;
+         font-size: 20px;  
+         padding: 0 0 0 80px;
+         font-family: 'Quicksand', sans-serif;
+         font-size: 12pt;
+}
+
+.sayfalar {color: #333333;
+           padding: 0 0 0 80px; 
+           font-weight: bold;
+           font-family: Arial, Helvetica, sans-serif;
+}
+
+#menu {line-height: 38px;
+       color: #333333;
+       padding: 0 0 0 41px;
+
+}
+
+.kutu2 {height: 800px;
+        width: 700px;        
+        background-color: white;
+        margin: 0 0 0 460px;
+        padding: 0 0 0 80px;
+        
+
+}
+
+
+.kutu3 {height: 100px;
+        width: 780px;        
+        background-color: white;
+        margin: 0 0 0 460px;
+
+}
+
+#sonyazı {text-indent: 86px;
+          font-size: 13pt;
+          padding: 40px 0 0 0;  
+          color: #797877;
+}
+
+
+#kutu2baslık {font-size: 29pt;
+              font-weight: bold;
+              color: #333333;    
+}
+
+
+
+
+#paragraf {font-size: 14pt;
+           line-height: 30px; 
+           color: #333333;
+
+
+}
+
+
+
+#paragraf2 {color: #797877;
+            text-align: center;
+            padding: 0 10 0 10px;
+            font-size: 19pt;
+            margin: 0 0 0 -80px;
+            line-height: 45px;
+            font-style: italic;
+
+
+
+}
+
+
+#paragraf3 {color: #333333;
+            text-align: center;
+            padding: 0 10 0 10px;
+            font-size: 15pt;
+            margin: 0 0 0 -80px;
+            font-family: 'Quicksand', sans-serif;
+
+
+}
+
+
+.linkler {color: #333333;
+        text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+body {background-color: #f1f1f1;
+      margin: 0 0 0 0;
+      
+}
